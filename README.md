@@ -1,2 +1,2 @@
 # pokedex
-Pokedex em Kotlin
+Pokedex implementado em Kotlin.
